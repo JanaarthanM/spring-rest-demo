@@ -31,11 +31,6 @@ public class UserResource {
 		return user;
 	}
 	
-	/*@PostMapping("/user")
-	public User insertOne(@RequestBody User user) {
-		return dao.save(user);
-	}*/
-	
 	@PostMapping("/users")
 	public ResponseEntity<String> insertOne(@RequestBody User user) {
 		User savedUser = dao.save(user);
