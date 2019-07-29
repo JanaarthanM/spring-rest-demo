@@ -1,4 +1,4 @@
-package com.lowes.restapidemo.user;
+package com.janaa.restapidemo.user;
 
 import java.text.SimpleDateFormat;
 

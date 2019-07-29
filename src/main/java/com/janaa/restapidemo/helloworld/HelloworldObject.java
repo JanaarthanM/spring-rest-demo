@@ -1,4 +1,4 @@
-package com.lowes.restapidemo.helloworld;
+package com.janaa.restapidemo.helloworld;
 
 public class HelloworldObject {
 

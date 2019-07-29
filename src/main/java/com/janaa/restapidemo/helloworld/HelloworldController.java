@@ -1,4 +1,4 @@
-package com.lowes.restapidemo.helloworld;
+package com.janaa.restapidemo.helloworld;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
